@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526627723 source:c:\users\黄炜恺\desktop\大作业\新建文件夹\泊松分布\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<random>
+
